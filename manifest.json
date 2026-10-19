@@ -1,0 +1,19 @@
+{
+  "name": "Portal · Planner",
+  "short_name": "Planner",
+  "description": "AI-powered school planner — assignments, time-boxing, notes, subjects.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#5C9EAD",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%235C9EAD'/%3E%3Cpath d='M144 160h224v40H144zM144 240h224v40H144zM144 320h144v40H144z' fill='%23fff'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
